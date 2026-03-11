@@ -14,7 +14,7 @@ const clickText = document.getElementById("click-value")
 
 function updateClicktext()
 {
-    clickText.innerText = "Score per click: "+clickValue
+    clickText.innerText = 'Score per click: '+clickValue
 }
 
 function upgradeClick()
